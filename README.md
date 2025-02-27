@@ -1,16 +1,13 @@
-## Hi there 👋
+<!-- Profile Header with Dynamic SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Architect;Open-Source+Contributor;Systems+Thinking+Advocate" alt="Animated Title" />
+</p>
 
-<!--
-**Imercenary27/Imercenary27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Technical Skills Matrix -->
+## 🛠️ Technical Toolbox
+| **Category**       | **Technologies**                                                                 |
+|---------------------|---------------------------------------------------------------------------------|
+| **Frontend**        | React (Next.js), Vue 3, SvelteKit, WebAssembly                                  |
+| **Backend**         | Node.js, Go, Rust (Actix), PostgreSQL, Redis                                    |
+| **DevOps**          | AWS Certified, Kubernetes, Terraform, GitHub Actions, ArgoCD                   |
+| **MLOps**           | PyTorch, TensorFlow Extended, Kubeflow, MLflow                                 |
