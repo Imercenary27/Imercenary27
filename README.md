@@ -11,3 +11,7 @@
 | **Backend**         | Node.js, Go, Rust (Actix), PostgreSQL, Redis                                    |
 | **DevOps**          | AWS Certified, Kubernetes, Terraform, GitHub Actions, ArgoCD                   |
 | **MLOps**           | PyTorch, TensorFlow Extended, Kubeflow, MLflow                                 |
+
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=${GITHUB_USERNAME}&style=flat-square&label=Profile+Views&color=blueviolet)
