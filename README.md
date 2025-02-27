@@ -14,4 +14,8 @@
 
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=${GITHUB_USERNAME}&style=flat-square&label=Profile+Views&color=blueviolet)
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=${GITHUB_USERNAME}&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
